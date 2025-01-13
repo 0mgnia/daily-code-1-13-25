@@ -1,4 +1,4 @@
-(daily code 1/13/25 reviewing functions and results) (with Javier)
+#daily code 1/13/25 reviewing functions and results with Javier
 
 def CirlceCirfumference(a):
     return 2 * 3.14 * a
